@@ -1,7 +1,5 @@
-# Corporate Prsentation Website
+# My Portfolio
 
-### In detail description of the services TenerigeConcierge is providing
+### My personal website with ifo about my website developer background.
 
-This is the presentation page of my wife's company. 
-
-*This project has a demo [here](https://vladmrn.github.io/tenerifeconcierge-com/).*
+*This project has a demo [here](https://vladmarin.ro/).*
